@@ -1,0 +1,25 @@
+{
+  "covidNews": [
+    {
+      "id": "20200425001",
+      "title": "Nova Scotia Reports Six More Deaths, Fifteen New Cases of COVID-19",
+      "timestamp": 1587833760,
+      "summary": "Today, April 25, Nova Scotia is reporting six additional deaths related to COVID-19, bringing the total to 22. Five occurred at the Northwood long-term care home in Halifax Regional Municipality. As well, a man in his 80s with underlying medical conditions died in the Western Zone; he was not a resident of a long-term care home."
+    }
+  ],
+  "webhooks": [
+    {
+      "timestamp": 1587856541917,
+      "url": "localhost:020"
+    },
+    {
+      "timestamp": 1587856544041,
+      "url": "localhost:020"
+    },
+    {
+      "timestamp": 1587858450651,
+      "url": "123.com"
+    }
+  ],
+  "lastFetchAt": 1587858413062
+}
