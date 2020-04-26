@@ -1,6 +1,12 @@
 {
   "covidNews": [
     {
+      "id": "20200426001",
+      "title": "Nova Scotia Reports Two More Deaths, Eight New Cases of COVID-19",
+      "timestamp": 1587916080,
+      "summary": "Today, April 26, Nova Scotia is reporting two additional deaths related to COVID-19, bringing the total to 24. The deaths occurred at the Northwood long-term care home in Halifax Regional Municipality."
+    },
+    {
       "id": "20200425001",
       "title": "Nova Scotia Reports Six More Deaths, Fifteen New Cases of COVID-19",
       "timestamp": 1587833760,
@@ -9,17 +15,9 @@
   ],
   "webhooks": [
     {
-      "timestamp": 1587856541917,
-      "url": "localhost:020"
-    },
-    {
-      "timestamp": 1587856544041,
-      "url": "localhost:020"
-    },
-    {
-      "timestamp": 1587858450651,
-      "url": "123.com"
+      "timestamp": 1587929192164,
+      "url": "http://localhost:3000/"
     }
   ],
-  "lastFetchAt": 1587858413062
+  "lastFetchAt": 1587929104282
 }
